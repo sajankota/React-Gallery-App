@@ -27,6 +27,8 @@ function App() {
   return (
     <div className="min-h-screen flex items-center">
       <div className="container mx-auto px-4">
+        <h1>React Gallery App</h1>
+        <p>React 18 galley app with Tailwincss and Pixabay API</p>
         <ImageSearch searchText={setTerm} />
         {!isLoading && images.length === 0 ? (
           <h1 className="text-5xl text-center">No images found</h1>
