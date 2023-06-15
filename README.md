@@ -1,5 +1,5 @@
 # react-gallery-app
-Basic React 18 Gallery Application built using react and Pixabay API
+Basic React 18 Gallery Application built using React, Tailwindcss and Pixabay API
 ```
 # Install dependencies
 npm install
